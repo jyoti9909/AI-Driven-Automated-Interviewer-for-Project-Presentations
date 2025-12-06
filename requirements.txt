@@ -1,0 +1,25 @@
+# Core dependencies
+streamlit>=1.28.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# OCR
+pytesseract>=0.3.10
+
+# Speech-to-Text
+openai-whisper>=20231117
+
+# LLM and LangChain
+langchain>=0.0.350
+openai>=1.3.0
+
+# PDF processing
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+reportlab>=4.0.7
+markdown>=3.5.1
+
+# Utilities
+python-dotenv>=1.0.0
+
